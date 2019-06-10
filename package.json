@@ -1,0 +1,17 @@
+{
+  "name": "custom-decrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custom-decrypt.js",
+  "module": "src/custom-decrypt.js",
+  "scripts": {
+    "test": "node custom-decrypt.js",
+    "c": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.14.6"
+  }
+}
